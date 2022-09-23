@@ -1,4 +1,4 @@
-# AEDSI-programs
+# AEDS II-programs
 
 Projetos da disciplina de Algoritmos e Estruturas de Dados - 2021
 
